@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dip"
+    android:background="@drawable/makan"
+    >
+    //text silahkan pilih makanan
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silahkan Pilih Makanan"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:textColor="@color/white"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        >
+    </TextView>
+    //spinner untuk memilih makanan
+    <Spinner
+        android:id="@+id/spinnermakan"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:popupBackground="?android:attr/colorActivatedHighlight"
+        >
+    </Spinner>
+    //text silahkan pilih minuman
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Silahkan Pilih Minuman"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        >
+    </TextView>
+    //spinner untuk memilih minuman
+    <Spinner
+        android:id="@+id/spinnerminum"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/colorActivatedHighlight"
+        android:popupBackground="?android:attr/colorActivatedHighlight"
+        >
+    </Spinner>
+    //tombol untuk memesan tapi tidak saya berikan aksi pada mainactivity.java
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="PESAN"
+            android:layout_marginBottom="250dp"
+            android:layout_marginLeft="110dp"
+            ></Button>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="KELUAR"
+            android:layout_marginBottom="250dp"
+            android:layout_marginLeft="20dp"
+            ></Button>
+    </LinearLayout>
+</LinearLayout>

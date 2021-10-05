@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">E41200064_Recycler View</string>
+    //array untuk menaruh item" judul
+    <string-array name="menumakan">
+        <item>Sop Ayam</item>
+        <item>Rawon</item>
+        <item>Nasi Goreng</item>
+        <item>Nasi Campur</item>
+        <item>Gulai Kambing</item>
+        <item>Cireng</item>
+    </string-array>
+
+    array untuk menaruh item" deskripsi
+    <string-array name="description">
+        <item>Rp. 12000</item>
+        <item>Rp. 15000</item>
+        <item>Rp. 9000</item>
+        <item>Rp. 6000</item>
+        <item>Rp. 17000</item>
+        <item>Rp. 5000</item>
+    </string-array>
+
+</resources>

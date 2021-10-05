@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //array untuk spinner memilih makanan
+    <string name="app_name">E41200064_Spinner_WO4</string>
+    <string-array name="makanan_array">
+        <item>Pilih Makanan</item>
+        <item>Rujak Soto</item>
+        <item>Pecel Rawon</item>
+        <item>Pecel Pincuk</item>
+        <item>Ayam Crispy</item>
+        <item>Ayam Geprek</item>
+        <item>Lalapan Telur</item>
+        <item>Cumi Bakar</item>
+        <item>Udang Crispy</item>
+        <item>Lalapan Terong</item>
+        <item>Nasi Kucing</item>
+        <item>Bakso</item>
+    </string-array>
+    //array untuk spinner memilih minuman
+    <string-array name="minuman_array">
+        <item>Pilih Minuman</item>
+        <item>Teh Hangat</item>
+        <item>Es Teh</item>
+        <item>Joshua</item>
+        <item>Teh Susu</item>
+        <item>Kopi Susu</item>
+        <item>Kopi Hitam</item>
+    </string-array>
+</resources>
