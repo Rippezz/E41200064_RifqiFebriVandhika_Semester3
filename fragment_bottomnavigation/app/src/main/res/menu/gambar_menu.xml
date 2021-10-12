@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        // membuat isi dari navigasi
+        <item
+            android:id="@+id/nav_tulispesan"
+            android:icon="@drawable/ic_tulispesan"
+            android:title="Tulis Pesan" />
+        <item
+            android:id="@+id/nav_percakapan"
+            android:icon="@drawable/ic_percakapan"
+            android:title="Percakapan" />
+        <item
+            android:id="@+id/nav_permainan"
+            android:icon="@drawable/ic_permainan"
+            android:title="Permainan" />
+    </group>
+
+    <item android:title="Bagi dan Kirim">
+        //membuat isi dari navigasi pada bagian Bagi dan Kirim
+        <menu>
+            <item
+                android:id="@+id/nav_bagikan"
+                android:icon="@drawable/ic_bagikan"
+                android:title="Bagikan" />
+            <item
+                android:id="@+id/nav_kirim"
+                android:icon="@drawable/ic_kirim"
+                android:title="Kirim" />
+        </menu>
+    </item>
+</menu>
