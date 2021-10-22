@@ -1,5 +1,16 @@
 # E41200064_RifqiFebriVandhika_Semester3
 Wo 6 Workshop Mobile Application
+![output1](https://user-images.githubusercontent.com/75188356/138403516-f8663281-a07c-4aac-ae05-a0667dc42fd7.PNG)
+![output2](https://user-images.githubusercontent.com/75188356/138403530-006884c2-3c42-4991-bf9f-4a6ed2cdbf1f.PNG)
+![output3](https://user-images.githubusercontent.com/75188356/138403542-e8fbe85c-3339-4402-a266-dfa10192c21f.PNG)
+![output4](https://user-images.githubusercontent.com/75188356/138403550-983ce07d-0def-4b5e-b545-f40b837299e2.PNG)
+![output5](https://user-images.githubusercontent.com/75188356/138403559-3d2e04c6-b57c-4b4e-b334-ebbb1d090e9f.PNG)
+![output6](https://user-images.githubusercontent.com/75188356/138403571-b9da5552-19a8-40b0-a29a-c173f08d6afb.PNG)
+![output7](https://user-images.githubusercontent.com/75188356/138403634-c1e58b2a-e024-4ea2-ba76-69c71c733e20.PNG)
+![output8](https://user-images.githubusercontent.com/75188356/138403648-283c87e9-9651-418b-8183-e64407973e2e.PNG)
+
+
+Wo 6 Workshop Mobile Application
 ![1](https://user-images.githubusercontent.com/75188356/137154267-e7f93510-c0bf-4e2b-863e-4b45ae9c2016.PNG)
 ![2](https://user-images.githubusercontent.com/75188356/137154339-86ee259c-6865-4613-86d5-854b97418c90.PNG)
 ![3](https://user-images.githubusercontent.com/75188356/137154378-3f047d7d-d730-447f-810f-31ba6c6f517c.PNG)
